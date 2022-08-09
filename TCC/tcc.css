@@ -1,0 +1,171 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    background-color:#1C1C1C;
+   
+    font-family: 'Kanit', sans-serif;
+    color: #ffffff;
+    margin:0px;
+    padding:0px;
+}
+
+/* introdução */
+.inicio{
+    padding: 60px;
+    height:600px;
+
+}
+
+.cabelo{
+    text-align: center;
+ 
+}
+.divah{
+    margin-top:100px;
+
+}
+#botao{
+    background-color:#ffffff;
+    border: none ;
+     color: #1e1e1e;
+
+     padding:15px 30px;
+     margin-right:15px;
+     font-size:12px;
+     font-weight: bold;
+     border-radius: 15px;
+
+     cursor: pointer;
+     transition: .3s ease all;
+   
+
+}
+#botao:hover{
+    background-color:#1C1C1C;
+
+}
+.ancora{
+    color:#1C1C1C;
+    
+}
+.ancora:hover{
+    color:#ffffff;
+}
+
+.boasvindas{
+    font-weight: lighter;
+ 
+}
+.haru{
+    font-size:60px;
+}
+
+.desenvolvedora{
+    font-weight: lighter;
+ 
+}
+
+/*Sobre*/
+
+.miolo{
+    background-color: #1e1e1e;
+    text-align: justify; 
+    padding:40px;
+}
+.perfil{
+    border-radius: 50%;
+}
+.artigo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.intro{
+    font-weight: normal;
+    font-size: 40px;
+}
+
+.paragrafo{
+    padding:100px;
+    font-weight: lighter;
+}
+.paragrafo i{
+    font-size:20px;
+    margin-right:15px;
+    color:#ffffff;
+    
+
+}
+
+.seta{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+    color:#ffffff;
+
+}
+
+/*trabalhos*/
+
+.asinha{
+    display:flex;
+    justify-content: space-between;
+    padding:40px;
+
+
+   
+}
+#trabalhos{
+    text-align: center;
+    margin-top:60px;
+
+}
+
+.curriculo{
+  
+    text-align: center;
+    height:400px;
+    width:300px;
+    border-color:#C0C0C0;
+    /*border-radius: 5%;*/
+    border-style:groove;
+    border-width: 0.5px;
+ 
+}
+
+.lista{
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ 
+}
+
+.todas{
+    text-decoration:none;
+    color:#ffffff;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+/*.tec{
+    font-weight: lighter;
+    font-size:15px;
+}*/
+.curriculo i{
+    font-size:20px;
+    margin-right:15px;
+
+}
+
+
+.fim{
+    background-color: 	#1C1C1C;
+    color:#ffffff;
+    padding:10px;
+    text-align: center;
+    font-weight: lighter;
+}
+
